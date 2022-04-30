@@ -1,4 +1,4 @@
-[![MC Technology](src/mctechnology_extendido.GIF)](https://www.youtube.com/c/mctechnology17)
+[![MC Technology](https://github.com/mctechnology17/mctechnology17/blob/main/src/mctechnology_extendido.GIF)](https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw)
 
 <h1 align="center">Bienvenid@ a mi repositorio DOTFILES </h1>
 
