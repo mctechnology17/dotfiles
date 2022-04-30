@@ -1,20 +1,17 @@
 [![MC Technology](src/mctechnology_extendido.GIF)](https://www.youtube.com/c/mctechnology17)
 
-<h1 align="center">Hi there, I'm Marcos - MC Technology <img src="./src/wave.gif" width="30px"></h1>
+<h1 align="center">Bienvenid@ a mi repositorio DOTFILES </h1>
 
-<table align="right">
-<tr>
-<td>
+<div align="center">
 
-[<img align="left" alt="MC Technology | YouTube" width="22px" src="./src/youtube.png" />][youtube]
-[<img align="left" alt="@mctechnology17 | Twitter" width="22px" src="./src/twitter.png" />][twitter]
-[<img align="left" alt="@mctechnology17 | Instagram" width="22px" src="./src/instagram.png" />][instagram]
-[<img align="left" alt="MC Technology17 | Facebook" width="22px" src="./src/facebook.png" />][facebook]
-[<img align="left" alt="@mctechnology17 | Reddit" width="22px" src="./src/reddit.png" />][reddit]
+  [<img align="center" alt="MC Technology | YouTube" width="22px" src="https://github.com/mctechnology17/mctechnology17/blob/main/src/youtube.png" />][youtube]
+  [<img align="center" alt="@mctechnology17 | Twitter" width="22px" src="https://github.com/mctechnology17/mctechnology17/blob/main/src/twitter.png" />][twitter]
+  [<img align="center" alt="@mctechnology17 | Instagram" width="22px" src="https://github.com/mctechnology17/mctechnology17/blob/main/src/instagram.png" />][instagram]
+  [<img align="center" alt="MC Technology17 | Facebook" width="22px" src="https://github.com/mctechnology17/mctechnology17/blob/main/src/facebook.png" />][facebook]
+  [<img align="center" alt="@mctechnology17 | Reddit" width="22px" src="https://github.com/mctechnology17/mctechnology17/blob/main/src/reddit.png" />][reddit]
 
-</td>
-</tr>
-</table>
+</div>
+<br>
 
 <details>
   <summary>:zap: About me!</summary>
