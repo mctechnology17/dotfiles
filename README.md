@@ -37,15 +37,44 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mctechnology17&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
+# Donar
+Si disfrutas de mi trabajo, siéntete libre de donar o convertirte en patrocinador.
+- [paypal]
+- [sponsor]
+
+Ensablador y creador de vimtools, GitManager y más. Herramientas de trabajo
+fáciles de integrar, pero muy potentes que te permiten mejore su flujo de
+trabajo, integrándose con todos los sistemas operativos y todas las
+terminales posibles.
+
+Aquí puedes ver mis proyectos publicados recientemente:
+- [vimtools] navaja suiza para vim (funciones y configuraciones que te facilitarán la vida)
+- [gm] administrador para GIT multiplataforma con una interfaz de usuario amigable
+- [vim-better-header] plantilla automatizada para los encabezados de tus códigos
+- [vim-executor] ejecutador de código multilenguaje
+
+
+## [LICENCIA](LICENSE)
+
+Publicado bajo la Licencia Pública General GNU v3.0.
+
+Copyright (c) 2022 Marcos Chow Castro
+
 [twitter]: https://twitter.com/mctechnology17
 [youtube]: https://www.youtube.com/c/mctechnology17
 [instagram]: https://www.instagram.com/mctechnology17/
 [facebook]: https://m.facebook.com/mctechnology17/
 [reddit]:https://www.reddit.com/user/mctechnology17
 
+[vim-executor]: https://github.com/mctechnology17/vim-executor
+[vim-better-header]: https://github.com/mctechnology17/vim-better-header
+[gm]: https://github.com/mctechnology17/gm
 [vimtools]: https://github.com/mctechnology17/vimtools
 [jailbreakrepo]: https://mctechnology17.github.io/
 [uiglitch]: https://repo.packix.com/package/com.mctechnology.uiglitch/
 [uiswitches]: https://repo.packix.com/package/com.mctechnology.uiswitches/
-[gm]: https://github.com/mctechnology17/gm
+[uibadge]: https://repo.packix.com/package/com.mctechnology.uibadge/
 [youtuberepo]: https://github.com/mctechnology17/youtube_repo_mc_technology
+[sponsor]: https://github.com/sponsors/mctechnology17
+[paypal]: https://www.paypal.me/mctechnology17
+[readline]: https://github.com/PowerShell/PSReadLine/blob/master/README.md
