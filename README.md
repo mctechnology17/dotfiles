@@ -15,15 +15,6 @@
 
 ---
 
-<h1 align="left">Ultimos videos publicados en mi canal</h1>
-
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw)
-
----
-
 <h1 align="left">GitHub Stats</h1>
 
 <div>
